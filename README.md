@@ -29,21 +29,20 @@ Here are some ideas to get you started:
 
 ### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,reactjs,mysql,mongod)](https://github.com/mdawoud27)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,reactjs,mysql,mongod)](https://github.com/ShelbyG2)
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://github.com/mdawoud27)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://github.com/ShelbyG2)
 
 ### Tools and Utilities
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,)](https://github.com/mdawoud27)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,)](https://github.com/ShelbyG2)
 <!--vercel, pug-->
 ### Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawoud27/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/mad_d27)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mhmaddawoud20@gmail.com)
-<a href="https://medium.com/@dawoud27" style="margin-left: 0.1rem;">
-  <img src="./images/medium-icon.svg" alt="medium logo" width="50" height="50">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/njenga-joseph-2528112b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/pickyblind_ass?t=2x43kc_ybB2ZYgtM6L87oA&s=09)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:wailerjengaa@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wailerjengaa?igsh=dXpqOTFoMW40MHo=)
+
