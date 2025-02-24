@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,reactjs,mysql,mongod)](https://github.com/ShelbyG2)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,mongod)](https://github.com/ShelbyG2)
 
 ### Programming Languages
 
